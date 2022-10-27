@@ -1,4 +1,5 @@
-Trabajo práctico final desarrollado en grupo para la materia Algoritmos y Programación 2, donde pusimos en práctica todos los conocimientos adquiridos en JAVA.
+# Trabajo práctico final:
+Desarrollado en grupo para la materia Algoritmos y Programación 2, donde pusimos en práctica todos los conocimientos adquiridos en JAVA.
 
 # Integrantes
 - Avila, Agustin Alejo
